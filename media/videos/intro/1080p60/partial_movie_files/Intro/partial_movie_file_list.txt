@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/gralk/Documents/Schule/Mathe/Python/media/videos/intro/1080p60/partial_movie_files/Intro/450974505_134330190_1048651355.mp4'
+file 'file:C:/Users/gralk/Documents/Schule/Mathe/Python/media/videos/intro/1080p60/partial_movie_files/Intro/34786186_2444294727_1805299016.mp4'
+file 'file:C:/Users/gralk/Documents/Schule/Mathe/Python/media/videos/intro/1080p60/partial_movie_files/Intro/34786186_2507034490_498814650.mp4'
+file 'file:C:/Users/gralk/Documents/Schule/Mathe/Python/media/videos/intro/1080p60/partial_movie_files/Intro/34786186_325538373_440145834.mp4'
+file 'file:C:/Users/gralk/Documents/Schule/Mathe/Python/media/videos/intro/1080p60/partial_movie_files/Intro/34786186_2963080479_3327675242.mp4'
